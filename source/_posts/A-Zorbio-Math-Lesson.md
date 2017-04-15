@@ -1,6 +1,7 @@
 ---
 title: A Zorbio Math Lesson
-s: moore-class
+permalink: moore-class
+author: Michael
 categories:
   - Zorbio
 tags:
@@ -21,7 +22,7 @@ We showed the students three equations that we use in [Zorbio](http://zor.bio) t
 control various aspects of the game.  We showed how tweaking equations can
 cause big changes inside the game.
 
-{% asset_img "eq.png" "demo equation" %}
+{% asset_img "eq.jpg" "demo equation" %}
 
 The students had so many questions that we ran out of time in every class.  We
 were incredibly impressed with the students and hope to do more events like

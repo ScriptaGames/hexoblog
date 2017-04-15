@@ -1,6 +1,7 @@
 ---
 title: Zorbio 1.0.4 Patch Notes
-s: zorbio-1.0.4
+permalink: zorbio-1.0.4
+author: Michael
 categories:
   - Zorbio
 tags:

@@ -1,6 +1,7 @@
 ---
 title: Zorbio 1.0 eats the world!
-s: zorbio-1.0
+permalink: zorbio-1.0
+author: Michael
 categories:
   - Zorbio
 tags:
@@ -21,7 +22,7 @@ Zorbio is a a web-based 3D eat-em-up.
 
 <!-- more -->
 
-{% asset_img "ui.png" "zorbio UI" %}
+{% asset_img "ui.jpg" "zorbio UI" %}
 
 After the Zorbio open alpha seven months ago, we took all the valuable feedback
 we received and got to work.  Here are the highlights of all the changes we’ve

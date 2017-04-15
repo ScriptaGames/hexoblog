@@ -1,6 +1,7 @@
 ---
 title: Zorbio 1.0.5 Patch Notes
-s: zorbio-1.0.5
+permalink: zorbio-1.0.5
+author: Michael
 categories:
   - Zorbio
 tags:
@@ -19,7 +20,7 @@ Zorbians, below you will find the patch notes for Zorbio version 1.0.5.
 Changelog:
 
 *   Added capture indicators: other players now have a colored ring around
-their spheres which indicate their size relative to your own:{% asset_img "capture-indicator.png" "capture indicator screenshots" %}
+their spheres which indicate their size relative to your own:{% asset_img "capture-indicator.jpg" "capture indicator screenshots" %}
 
     *   Green means you can eat the other player
     *   Yellow means you can eat the player, but they’re almost as big as you, so

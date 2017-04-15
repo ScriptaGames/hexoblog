@@ -1,6 +1,7 @@
 ---
 title: Zorbio Devlog 1
-s: devlog1
+permalink: devlog1
+author: Michael
 categories:
   - Zorbio
 tags:
@@ -30,15 +31,15 @@ that!
 * * *
 
 <div class="gallery">
-    {% asset_img "00.png" "zorbio image" %}
+    {% asset_img "00.jpg" "zorbio image" %}
     {% asset_img "01.jpg" "zorbio image" %}
     {% asset_img "02.jpg" "zorbio image" %}
-    {% asset_img "03.png" "zorbio image" %}
-    {% asset_img "04.png" "zorbio image" %}
-    {% asset_img "05.png" "zorbio image" %}
-    {% asset_img "06.png" "zorbio image" %}
-    {% asset_img "07.png" "zorbio image" %}
-    {% asset_img "08.png" "zorbio image" %}
-    {% asset_img "09.png" "zorbio image" %}
-    {% asset_img "10.png" "zorbio image" %}
+    {% asset_img "03.jpg" "zorbio image" %}
+    {% asset_img "04.jpg" "zorbio image" %}
+    {% asset_img "05.jpg" "zorbio image" %}
+    {% asset_img "06.jpg" "zorbio image" %}
+    {% asset_img "07.jpg" "zorbio image" %}
+    {% asset_img "08.jpg" "zorbio image" %}
+    {% asset_img "09.jpg" "zorbio image" %}
+    {% asset_img "10.jpg" "zorbio image" %}
 </div>

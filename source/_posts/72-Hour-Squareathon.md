@@ -1,8 +1,9 @@
 ---
 title: 72 Hour Squareathon
-s: squareoff-ld35
+permalink: squareoff-ld35
+author: Michael
 categories:
-  - SquareOff
+  - Square Off
 tags:
   - square-off
   - ludum-dare
@@ -20,7 +21,7 @@ But first, [Play it!](http://sqoff.com/)
 
 [Rate it!](http://ludumdare.com/compo/ludum-dare-35/?action=preview&amp;uid=91554)
 
-[{% asset_img "ss1.png" "screenshot 1" %}](http://sqoff.com/)
+[{% asset_img "ss1.jpg" "screenshot 1" %}](http://sqoff.com/)
 
 Ludum Dare is a “videogame jam”; a friendly competition where developers create
 a videogame from scratch in just a few days.  Here are some of my first
@@ -68,7 +69,7 @@ Here’s a timeline of our work on the game.  It’s pretty tame.  No epic
 all-nighters, just three 10~ hour days of solid work, and a couple of small
 bugfixes on Tuesday.
 
-{% asset_img "timeline.png" "punchcard of commits" %}
+{% asset_img "timeline.jpg" "punchcard of commits" %}
 
 The reviews from other Ludum Dare participants have been awesome to read.
 Here’s one from
@@ -94,8 +95,8 @@ before us.  The experience was exhilirating and exhausting.  I was
 simultaneously happy with the game, and really glad it was over.  For perhaps
 the first time, I felt like taking a break from programming for a little while.
 
-{% asset_img "gameplay.png" "gameplay" %}
+{% asset_img "gameplay.jpg" "gameplay" %}
 
-{% asset_img "victory.png" "victory" %}
+{% asset_img "victory.jpg" "victory" %}
 
 Oh, and [view source](https://github.com/ScriptaGames/SquareOff).

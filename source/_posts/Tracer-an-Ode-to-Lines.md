@@ -1,6 +1,7 @@
 ---
 title: 'Tracer, an Ode to Lines'
-s: tracer-ld37
+permalink: tracer-ld37
+author: Michael
 categories:
   - Tracer
 tags:
@@ -15,7 +16,7 @@ During Ludum Dare 37, our second game jam,
 created Tracer.  Read about how it was made and give it [a
 spin](http://scripta.co/tracer/).
 
-[{% asset_img "16.png" "screenshot 1" %}](http://scripta.co)
+[{% asset_img "16.jpg" "screenshot 1" %}](http://scripta.co)
 
 <!-- more -->
 
@@ -33,7 +34,7 @@ game…
 First, a bit of backstory.  In our first game, [Zorbio](http://zor.bio/) (an _ode to
 spheres_), players leave short contrails while flying through space.
 
-{% asset_img "zorbio.png" "player sphere leaving trails in Zorbio" %}
+{% asset_img "zorbio.jpg" "player sphere leaving trails in Zorbio" %}
 
 The trails are essentially a weathervane that gives you a visual hint about
 where other players are headed.  Short trails suit that purpose, but we found
@@ -41,7 +42,7 @@ it irresistable to increase the length of the trails dramatically, just to see
 what would happen.  The result, despite not being a good fit for Zorbio, was
 _awesome_.  It looks something like this:
 
-{% asset_img "12.png" "screenshot 1" %}
+{% asset_img "12.jpg" "screenshot 1" %}
 
 We knew there was game potential lurking somewhere in those long, curvy 3D
 trails.  A 3D multiplayer lightcycle game perhaps?  Our Ludum Dare 35 game,
@@ -50,7 +51,7 @@ complexity networking adds to an already tight timeline.
 
 Then Jared had a brilliant idea: **3D connect the dots**.
 
-{% asset_img "14.png" "screenshot 1" %}
+{% asset_img "14.jpg" "screenshot 1" %}
 
 72 hours later, we had a game, which you may now [play](http://scripta.co/tracer/).
 
@@ -71,28 +72,28 @@ always an inspiration.  Check out his work at [clicktorelease.com](https://www.c
 Lastly, here’s a batch of some mid-development screenshots showing Tracer
 during its awkward adolescent phase.
 
-{% asset_img "1.png" "screenshot 1" %}
+{% asset_img "1.jpg" "screenshot 1" %}
 
-{% asset_img "2.png" "screenshot 1" %}
+{% asset_img "2.jpg" "screenshot 1" %}
 
-{% asset_img "3.png" "screenshot 1" %}
+{% asset_img "3.jpg" "screenshot 1" %}
 
-{% asset_img "4.png" "screenshot 1" %}
+{% asset_img "4.jpg" "screenshot 1" %}
 
-{% asset_img "5.png" "screenshot 1" %}
+{% asset_img "5.jpg" "screenshot 1" %}
 
-{% asset_img "6.png" "screenshot 1" %}
+{% asset_img "6.jpg" "screenshot 1" %}
 
-{% asset_img "7.png" "screenshot 1" %}
+{% asset_img "7.jpg" "screenshot 1" %}
 
-{% asset_img "8.png" "screenshot 1" %}
+{% asset_img "8.jpg" "screenshot 1" %}
 
-{% asset_img "9.png" "screenshot 1" %}
+{% asset_img "9.jpg" "screenshot 1" %}
 
-{% asset_img "10.png" "screenshot 1" %}
+{% asset_img "10.jpg" "screenshot 1" %}
 
-{% asset_img "11.png" "screenshot 1" %}
+{% asset_img "11.jpg" "screenshot 1" %}
 
-{% asset_img "13.png" "screenshot 1" %}
+{% asset_img "13.jpg" "screenshot 1" %}
 
-{% asset_img "15.png" "screenshot 1" %}
+{% asset_img "15.jpg" "screenshot 1" %}

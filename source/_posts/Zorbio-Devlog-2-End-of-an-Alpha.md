@@ -1,6 +1,7 @@
 ---
 title: 'Zorbio Devlog 2: End of an Alpha'
-s: devlog2
+permalink: devlog2
+author: Michael
 categories:
   - Zorbio
 tags:
@@ -22,7 +23,7 @@ alpha.  For a game still in alpha, it was really encouraging to see so many
 consistent players.  I’d gotten accustomed to only friends and family playing
 the game, so seeing total strangers playing at all times of day was _so cool_.
 
-{% asset_img "alpha-fun.png" "zorbio screenshot with several players" %}
+{% asset_img "alpha-fun.jpg" "zorbio screenshot with several players" %}
 
 Anyone who would like to continue playing during the upcoming beta development
 phase, you’ll need an alpha key to play.  Fortunately, they’re free, just shoot

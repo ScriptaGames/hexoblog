@@ -1,6 +1,9 @@
 ---
 title: Square Off 1.1 Patch Notes
-date: 2017-02-28 14:05:40
+date: 2017-04-14 22:46:55
+author: Michael
+categories:
+  - Square Off
 tags:
   - square-off
   - ludum-dare
@@ -12,16 +15,16 @@ It's been almost a year since we built and released Square Off during the
 haphazard weekend of [Ludum Dare 35][ldsq].  Now, in our first patch since that
 weekend Square Off gets some much-needed love.  Here's what to look forward to!
 
-<img src="{% asset_path newdisc.png %}">
+<img src="{% asset_path newdisc.jpg %}">
 
 <!-- more -->
 
-<video style="margin: 0 auto; max-width: 100%;" poster="{% asset_path newdisc.png %}" autoplay controls loop>
-<source src="{% asset_path sqoff-disc-loop.mp4 %}" />
-</video>
+### Improvements:
 
- - Resolved a bug where the block hover icon would appear on more than one
-   block after a quick mouse motion.
+ - Made the game installable on Android phones.  Visit
+   [http://sqoff.com][sqoff] in Chrome, then go to Options (&#8942;) and select
+   "Install web app".
+ - Improved the appearance of the disc's trail.  It's no longer a smoky blur.
  - The block hover icon only appears on cells you are allowed to place blocks
    on.  In other words, it won't appear in the safe zone near your opponent's
    goal.
@@ -37,9 +40,11 @@ weekend Square Off gets some much-needed love.  Here's what to look forward to!
    motion.
  - For better responsiveness, blocks are placed on mousedown instead of
    mouseup.
- - Made the game installable on Android phones.  Visit
-   [http://sqoff.com][sqoff] in Chrome, then go to Options (&#8942;) and select
-   "Install web app".
+
+### Bugfixes:
+
+ - Resolved a bug where the block hover icon would appear on more than one
+   block after a quick mouse motion.
 
 [Play Square Off][sqoff], if you haven't yet.
 

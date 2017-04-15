@@ -3,10 +3,13 @@
 ## Source: https://github.com/hexojs/hexo/
 
 # Site
-title: Scripta
+title: "Scripta Games"
 subtitle:  Games for the modern web.
 description:
 author: Scripta, Inc
+authors:
+    Michael: 'https://twitter.com/mwcz'
+    Jared: 'https://twitter.com/caramelcode'
 language:
 timezone:
 
